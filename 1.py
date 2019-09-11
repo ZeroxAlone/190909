@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 11 14:25:21 2019
 
-@author: lisa_
-"""
 
 #1
 print("Ounces Grams")
